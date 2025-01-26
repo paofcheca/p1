@@ -56,4 +56,11 @@ Git Push sincroniza los cambios y envía los commits locales al repositorio remo
 
 Git Checkout permite restaurar archivos o cambiar de rama. Para crear una nueva rama utilizamos flag -b.
 
+## ENLACES A OTROS ARCHIVOS
+
+### Explicación comandos
+[Ver git.pdf](git.pdf)
+
+### Evidencia instalación del software y su funcionamiento
+[Ver entorno.pdf](entorno.pdf)
 
