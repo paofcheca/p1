@@ -37,31 +37,31 @@ A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la
 Este comando nos permite <ins>clonar</ins> un repositorio a partir de su URL en el nuestro.
 
 ### 2.Git Status
-<img width="574" alt="Imagen2.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="Imagen2.png" src="https://github.com/paofcheca/p1/blob/main/Imagen2.png" />
 
 Git Status muestra el <ins>estado actual</ins> del repositorio local. 
 > [!NOTE]
 > Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
 
 ### 3.Git Add .
-<img width="574" alt="Imagen3.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="Imagen3.png" src="https://github.com/paofcheca/p1/blob/main/Imagen3.png" />
 
 Git Add añade archivos al <ins>área de preparación</ins> (staging area). 
 > [!IMPORTANT]
 > Esto prepara a los archivos para ser incluidos en el próximo commit.
 
 ### 4.Git Commit
-<img width="574" alt="Imagen4.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="Imagen4.png" src="https://github.com/paofcheca/p1/blob/main/Imagen4.png" />
 
 Este comando guarda los cambios en el <ins>historial</ins> del repositorio. Un commit representa un punto de control del desarrollo.
 
 ### 5.Git Push
-<img width="574" alt="Imagen5.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="Imagen5.png" src="https://github.com/paofcheca/p1/blob/main/Imagen5.png" />
 
 Git Push <ins>sincroniza los cambios y envía los commits</ins> locales al repositorio remoto.
 
 ### 6.Git Checkout
-<img width="574" alt="ImagenCheck.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="ImagenCheck.png" src="https://github.com/paofcheca/p1/blob/main/Imagen6.png" />
 
 Git Checkout permite:
 * Restaurar archivos
