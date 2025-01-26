@@ -61,7 +61,7 @@ Este comando guarda los cambios en el <ins>historial</ins> del repositorio. Un c
 Git Push <ins>sincroniza los cambios y envía los commits</ins> locales al repositorio remoto.
 
 ### 6.Git Checkout
-<img width="574" alt="Imagen6.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="ImagenCheck.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
 Git Checkout permite:
 * Restaurar archivos
