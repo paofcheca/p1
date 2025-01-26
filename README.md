@@ -32,7 +32,7 @@ git checkout main
 A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la práctica e incluiremos una captura del código introducido en la terminal.
 
 ### 1.Git Clone
-<img width="574" alt="Imagen1.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+<img width="574" alt="Imagen1.png" src="https://github.com/paofcheca/p1/blob/main/Imagen1.png" />
 
 Este comando nos permite <ins>clonar</ins> un repositorio a partir de su URL en el nuestro.
 
