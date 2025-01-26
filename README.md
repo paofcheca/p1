@@ -23,5 +23,8 @@ git checkout main
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-##MEMORIA PRÁCTICA 1- PROGRAMACIÓN APLICACIONES TELEMÁTICAS, Paola Fernández-Checa
+## MEMORIA PRÁCTICA 1- PROGRAMACIÓN APLICACIONES TELEMÁTICAS, Paola Fernández-Checa
+A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la práctica e incluiremos una captura del código introducido en la terminal.
 
+### Git clone
+<img width="574" alt="Imagen1.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
