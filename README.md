@@ -32,36 +32,36 @@ git checkout main
 A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la práctica e incluiremos una captura del código introducido en la terminal.
 
 ### 1.Git Clone
-<img width="574" alt="Imagen1.png" src="https://github.com/paofcheca/p1/blob/main/Imagen1.png" />
+<img width="574" alt="Imagen1.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen1.png" />
 
 Este comando nos permite <ins>clonar</ins> un repositorio a partir de su URL en el nuestro.
 
 ### 2.Git Status
-<img width="574" alt="Imagen2.png" src="https://github.com/paofcheca/p1/blob/main/Imagen2.png" />
+<img width="574" alt="Imagen2.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen2.png" />
 
 Git Status muestra el <ins>estado actual</ins> del repositorio local. 
 > [!NOTE]
 > Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
 
 ### 3.Git Add .
-<img width="574" alt="Imagen3.png" src="https://github.com/paofcheca/p1/blob/main/Imagen3.png" />
+<img width="574" alt="Imagen3.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen3.png" />
 
 Git Add añade archivos al <ins>área de preparación</ins> (staging area). 
 > [!IMPORTANT]
 > Esto prepara a los archivos para ser incluidos en el próximo commit.
 
 ### 4.Git Commit
-<img width="574" alt="Imagen4.png" src="https://github.com/paofcheca/p1/blob/main/Imagen4.png" />
+<img width="574" alt="Imagen4.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen4.png" />
 
 Este comando guarda los cambios en el <ins>historial</ins> del repositorio. Un commit representa un punto de control del desarrollo.
 
 ### 5.Git Push
-<img width="574" alt="Imagen5.png" src="https://github.com/paofcheca/p1/blob/main/Imagen5.png" />
+<img width="574" alt="Imagen5.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen5.png" />
 
 Git Push <ins>sincroniza los cambios y envía los commits</ins> locales al repositorio remoto.
 
 ### 6.Git Checkout
-<img width="574" alt="ImagenCheck.png" src="https://github.com/paofcheca/p1/blob/main/Imagen6.png" />
+<img width="574" alt="ImagenCheck.png" src="https://github.com/paofcheca/p1/blob/main/Imagenes/Imagen6.png" />
 
 Git Checkout permite:
 * Restaurar archivos
