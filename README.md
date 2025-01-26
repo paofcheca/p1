@@ -23,8 +23,8 @@ git checkout main
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- [x] #¿Cómo probar en la nube? :+1:
-- [x] #¿Cómo escribir un README.md con formato? :+1:
+- [x] # ¿Cómo probar en la nube? :+1:
+- [x] # ¿Cómo escribir un README.md con formato? :+1:
 - [ ] Memoria explicativa
 - [ ] Enlaces de interés
 
