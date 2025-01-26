@@ -26,7 +26,7 @@ git checkout main
 ## MEMORIA PRÁCTICA 1- PROGRAMACIÓN APLICACIONES TELEMÁTICAS, Paola Fernández-Checa
 A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la práctica e incluiremos una captura del código introducido en la terminal.
 
-### Git clone
+### Git Clone
 <img width="574" alt="Imagen1.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
 Este comando nos permite clonar un repositorio a partir de su URL en el nuestro.
