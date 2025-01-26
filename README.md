@@ -23,38 +23,49 @@ git checkout main
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-## MEMORIA PRÁCTICA 1- PROGRAMACIÓN APLICACIONES TELEMÁTICAS, Paola Fernández-Checa
+- [x] #¿Cómo probar en la nube? :+1:
+- [x] #¿Cómo escribir un README.md con formato? :+1:
+- [ ] Memoria explicativa
+- [ ] Enlaces de interés
+
+## MEMORIA EXPLICATIVA- PROGRAMACIÓN APLICACIONES TELEMÁTICAS[^1]
 A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la práctica e incluiremos una captura del código introducido en la terminal.
 
 ### 1.Git Clone
 <img width="574" alt="Imagen1.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Este comando nos permite clonar un repositorio a partir de su URL en el nuestro.
+Este comando nos permite <ins>clonar</ins> un repositorio a partir de su URL en el nuestro.
 
 ### 2.Git Status
 <img width="574" alt="Imagen2.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Git Status muestra el estado actual del repositorio local. Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
+Git Status muestra el <ins>estado actual</ins> del repositorio local. Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
 
 ### 3.Git Add .
 <img width="574" alt="Imagen3.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Git Add añade archivos al área de preparación (staging area). Esto prepara a los archivos para ser incluidos en el próximo commit.
+Git Add añade archivos al <ins>área de preparación</ins> (staging area). 
+> [!IMPORTANT]
+> Esto prepara a los archivos para ser incluidos en el próximo commit.
 
 ### 4.Git Commit
 <img width="574" alt="Imagen4.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Este comando guarda los cambios en el historial del repositorio. Un commit representa un punto de control del desarrollo.
+Este comando guarda los cambios en el <ins>historial</ins> del repositorio. Un commit representa un punto de control del desarrollo.
 
 ### 5.Git Push
 <img width="574" alt="Imagen5.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Git Push sincroniza los cambios y envía los commits locales al repositorio remoto.
+Git Push <ins>sincroniza los cambios y envía los commits</ins> locales al repositorio remoto.
 
 ### 6.Git Checkout
 <img width="574" alt="Imagen6.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Git Checkout permite restaurar archivos o cambiar de rama. Para crear una nueva rama utilizamos flag -b.
+Git Checkout permite:
+* Restaurar archivos
+* Cambiar de rama
+ > [!TIP]
+>Para crear una nueva rama utilizamos <ins>**flag -b**<ins>.
 
 ## ENLACES A OTROS ARCHIVOS
 
@@ -64,3 +75,4 @@ Git Checkout permite restaurar archivos o cambiar de rama. Para crear una nueva 
 ### Evidencia instalación del software y su funcionamiento
 [Ver entorno.pdf](entorno.pdf)
 
+[^1]: Paola Fernández-Checa Clemente
