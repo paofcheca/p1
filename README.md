@@ -28,3 +28,32 @@ A lo largo de esta memoria explicaremos brevemente los comandos utilizados en la
 
 ### Git clone
 <img width="574" alt="Imagen1.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Este comando nos permite clonar un repositorio a partir de su URL en el nuestro.
+
+### Git Status
+<img width="574" alt="Imagen2.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Git Status muestra el estado actual del repositorio local. Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
+
+### Git Add .
+<img width="574" alt="Imagen3.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Git Add añade archivos al área de preparación (staging area). Esto prepara a los archivos para ser incluidos en el próximo commit.
+
+### Git Commit
+<img width="574" alt="Imagen4.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Este comando guarda los cambios en el historial del repositorio. Un commit representa un punto de control del desarrollo.
+
+### Git Push
+<img width="574" alt="Imagen5.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Git Push sincroniza los cambios y envía los commits locales al repositorio remoto.
+
+### Git Checkout
+<img width="574" alt="Imagen6.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
+
+Git Checkout permite restaurar archivos o cambiar de rama. Para crear una nueva rama utilizamos flag -b.
+
+
