@@ -23,8 +23,8 @@ git checkout main
 
 [Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-- [x] # ¿Cómo probar en la nube? :+1:
-- [x] # ¿Cómo escribir un README.md con formato? :+1:
+- [x] **¿Cómo probar en la nube?** :+1:
+- [x] **¿Cómo escribir un README.md con formato?** :+1:
 - [ ] Memoria explicativa
 - [ ] Enlaces de interés
 
@@ -39,7 +39,9 @@ Este comando nos permite <ins>clonar</ins> un repositorio a partir de su URL en 
 ### 2.Git Status
 <img width="574" alt="Imagen2.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
 
-Git Status muestra el <ins>estado actual</ins> del repositorio local. Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
+Git Status muestra el <ins>estado actual</ins> del repositorio local. 
+> [!NOTE]
+> Incluye cambios que aún no se han guardado (staged o unstaged), la rama en la que estás trabajando o archivos nuevos que no están siendo rastreados.
 
 ### 3.Git Add .
 <img width="574" alt="Imagen3.png" src="https://github.com/user-attachments/assets/8287cba7-c915-4a78-8698-30f2246bb0f7" />
